@@ -5,4 +5,5 @@ welcomeMessage(){
 int main(){
 	welcomeMessage():
 	return 0;
+	printf("balh blah blah");
 }
