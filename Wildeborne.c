@@ -4,5 +4,6 @@ welcomeMessage(){
 }
 int main(){
 	welcomeMessage():
+	printf("HEllow and some ovvur fings")
 	return 0;
 }
