@@ -34,7 +34,7 @@ printf("Where would you like to go?\n1. The pub.\n2. The stables.\nPlease select
 		pubIndex();
 	} else if (villageOption == '2') 
 	{
-		printf("Stables placeholder text\n");
+		printf("Stables placeholder texting\n");
 		villageIndex();
 	} else 
 	{
